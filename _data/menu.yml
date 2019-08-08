@@ -1,4 +1,6 @@
 actions:
+  - label: Blog
+    url: /generic
   - label: Sign Up
     url: /generic
   - label: Log In
