@@ -12,8 +12,8 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: |-
-    Crafted with excellence\
-    Competively priced\
+    Crafted with excellence
+    Competively priced
     Customer satisfaction
   title: Bathrooms
 sections:
