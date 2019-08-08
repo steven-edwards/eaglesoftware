@@ -1,1 +1,5 @@
-{}
+main:
+  - identifier: Showcase
+    title: Recent examples of our workmanship
+    url: ./showcase
+    weight: 2
