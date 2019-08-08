@@ -13,7 +13,11 @@ banner:
     url: '#one'
   subtitle: |-
     Crafted with excellence
-    Competively priced
+
+
+    Competitively priced
+
+
     Customer satisfaction
   title: Bathrooms
 sections:
