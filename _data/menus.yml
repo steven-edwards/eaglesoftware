@@ -3,7 +3,3 @@ main:
     title: Showcase
     url: ./showcase
     weight: 1
-  - identifier: Menu
-    title: Menu
-    url: ./showcase/menu
-    weight: 2
