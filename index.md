@@ -31,14 +31,11 @@ sections:
         title: Dolor
     section_id: one
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+      We work hard to ensure that what we deliver is what you asked for. A
+      modern, clean and above all professionally installed bathroom.
+    title: >-
+      a custom made bathroom done to the standard that you would naturally
+      expect
     type: icons
   - background_style: style2
     component: spotlights.html
