@@ -99,16 +99,14 @@ sections:
         title: Tortor Ut
     section_id: three
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    title: Accumsan mus tortor nunc aliquet
+      Whether you require a simple refresh or a complete rebuild. We've got the
+      expertise to deliver whatever bathroom you desire.
+    title: bathroom styles
     type: features
   - actions:
       - is_primary: true
         is_scrolly: false
-        label: Activate
+        label: Enquiry
         url: /generic
       - is_primary: false
         is_scrolly: false
@@ -118,9 +116,9 @@ sections:
     component: cta.html
     section_id: cta
     text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
-    title: Arcue ut vel commodo
+      Make an enquiry with us but before you do; be sure to read from a few of
+      our many satisfied customers.
+    title: Don't take our word for it
     type: cta
 menus:
   main:
