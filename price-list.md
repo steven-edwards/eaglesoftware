@@ -1,7 +1,7 @@
 ---
 title: Price List
 subtitle: <h4>This is where our price list is</h4>
-background_style: style1
+background_style: style5
 menus:
   main:
     title: Prices
