@@ -5,3 +5,5 @@ actions:
     url: /generic
   - label: Log In
     url: /generic
+  - label: Prices
+    url: /prices
