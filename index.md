@@ -12,9 +12,11 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: |-
-    * Crafted with excellence
-    * Competitively priced
-    * Customer satisfaction
+    Crafted with excellence
+
+    Competitively priced
+
+    Customer satisfaction
   title: Bathrooms
 sections:
   - background_style: style1
