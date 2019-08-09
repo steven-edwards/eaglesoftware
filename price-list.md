@@ -1,14 +1,13 @@
 ---
 title: Price List
-subtitle: <h3>This is where our price list is</h3>
+subtitle: <h4>This is where our price list is</h4>
 background_style: style5
 menus:
   main:
     title: Prices
+    weight: -2
 layout: page
 ---
-<section class="wrapper style5">
-            <div class="inner">
  <h4>Table</h4>
                     <h5>Price List</h5>
                     <div class="table-wrapper">
@@ -55,4 +54,3 @@ layout: page
                             </tfoot>
                         </table>
                     </div>
-</section>
