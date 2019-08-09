@@ -1,7 +1,10 @@
 ---
 title: Price List
-subtitle: This is where our price list is.
+subtitle: <h3>This is where our price list is</h3>
 background_style: style5
+menus:
+  main:
+    title: Prices
 layout: page
 ---
 <section class="wrapper style5">
