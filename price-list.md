@@ -8,7 +8,7 @@ menus:
     weight: -2
 layout: page
 ---
-<section class="wrapper style1">
+<section class="wrapper style5">
  <h4>Table</h4>
                     <h5>Price List</h5>
                     <div class="table-wrapper">
