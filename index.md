@@ -47,12 +47,8 @@ sections:
           crafted from our agreed designs.
         title: Designed with you in mind
       - home_img_path: /images/bathroom-1a.jpg
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
+        text: Each bathroom is unique. Thats why...
+        title: Modern and professionally fitted
       - home_img_path: /images/bathroom-hi-res-clean.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
