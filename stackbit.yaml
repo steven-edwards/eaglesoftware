@@ -1,5 +1,13 @@
-stackbitVersion: ~0.2.34
+stackbitVersion: ~0.2.0
+ssgName: jekyll
+ssgVersion: 0.1.12
+buildCommand: ./ssg-build.sh
+publishDir: _site
+staticDir: ''
 uploadDir: images
+dataDir: _data
+pagesDir: ''
+pageLayoutKey: layout
 metadata:
   title: Spectral
   description: a multipage theme
@@ -14,6 +22,11 @@ metadata:
       images:
         small: images/demo-green-256x192.png
         large: images/demo-green-1024x768.png
+stackbit_banner:
+  show_banner: true
+  name: Spectral
+  create_url: 'https://app.stackbit.com/create?theme=spectral'
+  github_url: 'https://github.com/stackbithq/stackbit-theme-spectral'
 models:
   config:
     type: config
@@ -584,13 +597,3 @@ models:
         description: >-
           The identifier of a menu item could be used as a parent menu of
           another menu item
-stackbit_banner:
-  show_banner: true
-  name: Spectral
-  create_url: 'https://app.stackbit.com/create?theme=spectral'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-spectral'
-pagesDir: content
-staticDir: static
-ssgName: jekyll
-publishDir: _site
-buildCommand: ./ssg-build.sh
